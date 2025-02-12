@@ -1,1 +1,1 @@
-hello mca 11
+console.log("hello")
