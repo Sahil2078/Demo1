@@ -1,3 +1,2 @@
-hello world 
-
-hello mca
+console.log(Hello);
+console.log(Main say hi);
